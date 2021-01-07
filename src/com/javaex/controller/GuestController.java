@@ -85,7 +85,7 @@ public class GuestController extends HttpServlet {
 			response.sendRedirect("/guestbook2/gbc?action=addList");
 			
 		}
-		//하나씩 확인해보면서 오류->해결 
+		//수업내용 기억하면서 하나씩 확인해보면서 진행 오류->해결 
 		//중간에 계속 꼬이고 헷갈림 로직이 코딩이 머릿속에서 계속 섞임
 		//--> 머릿속에서 섞이니까 수업시간에 했던 phonebook2 계속 리딩하게됨
 		//--> 리딩하고 코딩하면 뭔가 그대로 입력하는 느낌 --> 내 것이 안되는 느낌
